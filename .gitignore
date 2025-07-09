@@ -1,0 +1,20 @@
+venv/
+
+.idea/
+
+# Logs and data
+*.log
+*.sqlite3
+*.db
+
+# Test output
+htmlcov/
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+
+# Distribution
+build/
+dist/
+*.egg-info/
