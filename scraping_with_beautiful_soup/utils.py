@@ -12,8 +12,8 @@ from selenium.webdriver.firefox.options import Options
 # load website using webdriver
 def get_driver():
     options = Options()
-    # options.add_argument("--headless")
-    options.add_argument("--no-sandbox")  # Recommended for Linux
+    options.add_argument("--headless")
+    options.add_argument("--no-sandbox")
 
     driver = webdriver.Firefox(
         options=options,
