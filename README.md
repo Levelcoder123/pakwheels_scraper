@@ -3,6 +3,8 @@
 This project scrapes car listings from PakWheels and exports the data to an Excel file. It uses Selenium, BeautifulSoup,
 and pandas.
 
+**[▶️ Watch a Video Demo of this Project on YouTube](https://youtu.be/eW3uDSEFBqI)**
+
 ## Features
 
 - Scrapes car details (name, price, location, year, mileage, seller, images, etc.)
