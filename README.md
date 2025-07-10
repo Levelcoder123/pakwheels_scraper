@@ -47,3 +47,7 @@ and pandas.
 - Make sure your browser and WebDriver versions match.
 - The script runs headless by default.
 - For large searches, scraping may take several minutes.
+
+
+## Sample screeshot of the output
+![Screenshot_2025-07-10_12-27-50](https://github.com/user-attachments/assets/5c5d6154-1abe-4988-970a-966da079a68f)
