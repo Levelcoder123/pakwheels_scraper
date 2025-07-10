@@ -19,7 +19,7 @@ and pandas.
 1. Clone the repository:
     ```
     git clone https://github.com/Levelcoder123/pakwheels_scraper.git
-   
+    cd pak_wheels_scraper
     ```
 
 2. Install dependencies:
