@@ -1,1 +1,1 @@
-BASE_URL = 'https://www.pakwheels.com'
+BASE_URL = "https://www.pakwheels.com"

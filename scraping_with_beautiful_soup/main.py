@@ -14,4 +14,4 @@ product_urls = get_product_urls(page_urls, first_page_soup)
 product_all_details = get_all_product_details(product_urls)
 
 df = pd.DataFrame(product_all_details)
-df.to_excel(f'pak_wheels_data_{formatted_datetime}.xlsx', index=False)
+df.to_excel(f"pak_wheels_data_{formatted_datetime}.xlsx", index=False)
